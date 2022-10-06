@@ -1,7 +1,28 @@
 <html>
-  <body>
-  <div style="font-size: 40;">my name Chayakul Tumsawat 64200039
-  <img src = "100076089_p0_master1200.jpg" weidth:420; height:240;>
-  </div>
-  </body>
+    
+
+<style>
+     #blue_bar{
+            height:50px; background-color: black; color: #d9dfeb;
+        }
+
+
+</style>
+   
+    <body>
+            
+            <div id="blue_bar">
+                <div style="width:800px; margin:auto; font-size:30px;">
+                    Chayakul Tumsawat<br><br>
+                    <img src="100076089_p0_master1200" style=" width: 300px; height: 300px; 
+                            border:solid 2px white;">
+                </div>
+            </div>
+        </body> 
+        
+       
+   
+    <div>
+
+    </div>
 </html>
