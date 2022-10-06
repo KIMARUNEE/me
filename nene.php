@@ -14,8 +14,7 @@
             <div id="blue_bar">
                 <div style="width:800px; margin:auto; font-size:30px;">
                     Chayakul Tumsawat<br><br>
-                    <img src="100076089_p0_master1200" style=" width: 300px; height: 300px; 
-                            border:solid 2px white;">
+                    <img src="100076089_p0_master1200">
                 </div>
             </div>
         </body> 
