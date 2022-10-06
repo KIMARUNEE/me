@@ -1,3 +1,28 @@
-<h1>Chayakul Tumsawat</h1>
-<hr/>
-<img style="weidth:420px" src="100076089_p0_master1200" >
+<html>
+    
+
+<style>
+     #blue_bar{
+            height:50px; background-color: black; color: #d9dfeb;
+        }
+
+
+</style>
+   
+    <body>
+            
+            <div id="blue_bar">
+                <div style="width:800px; margin:auto; font-size:30px;">
+                    Chayakul Tumsawat<br><br>
+                    <img src="100076089_p0_master1200" style=" width: 300px; height: 300px; 
+                            border:solid 2px white;">
+                </div>
+            </div>
+        </body> 
+        
+       
+   
+    <div>
+
+    </div>
+</html>
